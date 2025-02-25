@@ -36,7 +36,7 @@
             // 
             button1.BackColor = Color.Lime;
             button1.Font = new Font("Segoe UI", 9F, FontStyle.Bold);
-            button1.Location = new Point(32, 45);
+            button1.Location = new Point(33, 71);
             button1.Name = "button1";
             button1.Size = new Size(204, 58);
             button1.TabIndex = 0;
@@ -46,7 +46,7 @@
             // 
             // textBox1
             // 
-            textBox1.Location = new Point(275, 61);
+            textBox1.Location = new Point(276, 87);
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(441, 27);
             textBox1.TabIndex = 1;
