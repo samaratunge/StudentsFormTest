@@ -14,5 +14,10 @@ namespace FormTest
         {
             textBox1.Text = "Display Udara Text";
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            textBox2.Text = "Display Suyang Text";
+        }
     }
 }
