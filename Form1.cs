@@ -7,6 +7,9 @@ namespace FormTest
             InitializeComponent();
         }
 
+        /**
+         * Display name when click the button
+         */
         private void button1_Click(object sender, EventArgs e)
         {
             textBox1.Text = "Display Udara Text";
